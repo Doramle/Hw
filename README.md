@@ -8,11 +8,11 @@
 =
 
 好的 asdbad   
-   
-void main()
-{
-printf("Hello, Markdown.");
-}
+	   
+	void main()
+	{
+	printf("Hello, Markdown.");
+	}
 sadasd
   
 展示嵌套引用
